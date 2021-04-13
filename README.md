@@ -11,4 +11,5 @@ Les données ici étudiées regroupent l’Automobile de tourisme, les 2-3 roues
 
 Ces données sont communiquées volontairement au journal pour qu’il réalise son classement, chaque assureur peut donc à sa guise communiquer sur un périmètre plus important que demandé. Nous considérerons néanmoins qu’ils sont tous sur le même périmètre.
 
-![Groupama_ancien_logo svg](https://user-images.githubusercontent.com/81428023/114625808-14faec80-9cb3-11eb-95af-6216e054bff7.png)
+
+   ![Groupama_ancien_logo svg](https://user-images.githubusercontent.com/81428023/114625808-14faec80-9cb3-11eb-95af-6216e054bff7.png)
